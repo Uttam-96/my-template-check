@@ -1,3 +1,9 @@
 @import "tailwindcss";
 
 /* use tailwind css, if not able to acheive goal then use this app css */
+
+#nav {
+
+    height: auto;
+
+}
